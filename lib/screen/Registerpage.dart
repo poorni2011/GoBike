@@ -289,7 +289,7 @@ class _RegisterpageState extends State<Registerpage> {
            box.put(Constants.USER_TOKEN, val.accessToken.toString());
            box.put(Constants.USER_TOKEN_TYPE, val.tokenType.toString());
            box.put(Constants.USER_LOGIN_STATUS, Constants.LOGGED_IN);
-           box.put(Constants.USER_LOGIN_STATUS, Constants.USER_REFERAL_CODE);
+          //  box.put(Constants.USER_LOGIN_STATUS, Constants.USER_REFERAL_CODE);
 
            final status = box.get(Constants.USER_LOGIN_STATUS);
            print('Status : $status');
