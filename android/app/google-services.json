@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "176047604016",
+    "project_id": "gobikehome",
+    "storage_bucket": "gobikehome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176047604016:android:3a24a166b459aa784b88f5",
+        "android_client_info": {
+          "package_name": "com.devopssoft.go_bike_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176047604016-5vs9u0svoldba5jluph19ke0vnpi1809.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devopssoft.go_bike_home",
+            "certificate_hash": "4bdb72fdafa4efad567881ed65d9e54b1c0b9dff"
+          }
+        },
+        {
+          "client_id": "176047604016-b8m2q91f2e8rpmuhti1rk42badrbiikg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sCLajfWYEi0C-aU7MlcGGdvNBWuo8p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176047604016-b8m2q91f2e8rpmuhti1rk42badrbiikg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
