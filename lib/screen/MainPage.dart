@@ -2,7 +2,6 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
-
 import 'package:bike_service_app/constants/colors_palette.dart';
 import 'package:bike_service_app/screen/Homepage.dart';
 import 'package:bike_service_app/screen/NoInternet.dart';
